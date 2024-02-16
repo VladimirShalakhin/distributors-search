@@ -1,0 +1,1015 @@
+<?xml version="1.0" ?><?xml-stylesheet type="text/xsl" href="journal.xsl"?>
+<regions>
+    <region id="" regname="Белоруссия" county="Вне России" centers="1">
+        <center id="1666" regionid="/99/1/0/1/" city="г. Минск" name="ОДО &quot;Экспертцентр&quot;"
+                email="http://www.expert.by/products/tehexpert, root@expert.by"
+                address="220035, г. Минск, ул Тимирязева, 65-Б, комн. 207 – 211."
+                phone="+37 (517) 354 78 66, +737 (517) 354 78 58" status="Дистрибьютор"/>
+    </region>
+    <region id="32" regname="Брянская обл." center="г. Брянск" county="Центральный ФО" centers="2">
+        <center id="665" regionid="/1/32/0/1/" city="г. Брянск"
+                name="ООО &quot;Агентство правовой информации &quot;КОДЕКС&quot;"
+                email="https://kt032.ru/, hotline-cntd@yandex.ru"
+                address="241023, Брянская обл., г. Брянск, ул. Степная, д. 11, офис 3"
+                phone="+7 (4832) 77 02 09, 8 800 350 20 81" status="Дистрибьютор"/>
+        <center id="659" regionid="/1/32/0/1/" city="г. Брянск" name="ООО &quot;ТЕХЭКСПЕРТ&quot;"
+                email="https://kt032.ru/, Hotline-cntd@yandex.ru"
+                address="241023, Брянская обл., г. Брянск, ул. Степная, д. 11, офис 4"
+                phone="+7 (4832) 77 02 09, 8 800 350 20 81" status="Дистрибьютор"/>
+    </region>
+    <region id="33" regname="Владимирская обл." center="г. Владимир" county="Центральный ФО" centers="1">
+        <center id="670" regionid="/1/33/0/1/" city="г. Владимир"
+                name="Общество с ограниченной ответственностью &quot;Грикос&quot;"
+                email="www.grikos33.ru, info@grikos33.ru"
+                address="600000, Владимирская обл., г. Владимир, ул. Гагарина, д. 13, пом. 206"
+                phone="+7 (4922) 32 73 01" status="Дистрибьютор"/>
+    </region>
+    <region id="34" regname="Волгоградская обл." center="г. Волгоград" county="Южный ФО" centers="2">
+        <center id="1042" regionid="/3/34/0/1/" city="г. Волгоград"
+                name="Общество с ограниченной ответственностью  &quot;Центр Нормативно-Технической Документации &quot;Техэксперт&quot;"
+                email="tehexpert@cntdvolgograd.ru "
+                address="г.Волгоград, Волгоградская обл., ул.7-я Гвардейская, д.2, оф. 304"
+                phone="+7 (8442) 23 19 70, +7 (8442) 23 25 07, +7 (8442) 23 85 68, +7 (8442) 23 91 68"
+                status="Дистрибьютор"/>
+        <center id="1893" regionid="/3/34/0/1/" city="г. Волгоград"
+                name="Общество с ограниченной ответственностью &quot;Техэксперт-Волгоград&quot;"
+                email="http://dvolgograd.cntd.ru, volga@cntd.ru" address="400074, г.Волгоград, Иркутская ул., 19"
+                phone="+7 (960) 888 50 72" status="Дистрибьютор"/>
+    </region>
+    <region id="35" regname="Вологодская обл." center="г. Вологда" county="Северо-Западный ФО" centers="2">
+        <center id="918" regionid="/2/35/0/1/" city="г. Вологда" name="ООО &quot;АСКО&quot;"
+                email="https://dvologda.cntd.ru/, 787281@mail.ru, techkod@yandex.ru"
+                address="160000, г. Вологда, ул. Мира, д. 13, эт. 3 " phone="+7 (8172) 78 72 81, +7 (921) 716 17 00"
+                status="Дистрибьютор"/>
+        <center id="921" regionid="/2/35/0/2/" city="г. Череповец"
+                name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ИНФОРМСТРОЙПРОЕКТ&quot;"
+                email="http://dvologda.cntd.ru, www.cntd35.ru, techkod@yandex.ru"
+                address="160001, г. Вологда, ул. Батюшкова, д. 7, к. 411, 412"
+                phone="+7 (8172) 78 72 81, +7 (921) 716 17 00" status="Дистрибьютор"/>
+    </region>
+    <region id="36" regname="Воронежская обл." center="г. Воронеж" county="Центральный ФО" centers="3">
+        <center id="2712" regionid="/1/36/0/1/" city="г. Воронеж" name="ООО «Информационно-Технологический Партнёр»"
+                email="http://itp36.ru, hot@itp36.ru"
+                address="394077, г. Воронеж, Московский проспект, д. 97, помещение VII, помещение 213"
+                phone="+7 (4732) 58 58 36, +7 (952) 558 25 52" status="Дистрибьютор"/>
+        <center id="24720" regionid="/1/36/0/1/" city="г. Воронеж"
+                name="Индивидуальный предприниматель Фролова Инна Васильевна"
+                email="http://cntd.36mail.ru/, cntd@36mail.ru, ivasy81@mail.ru"
+                address="394070, Воронежская обл, г. Воронеж, Тер. ДНТ Гардарика, д. 213/2" phone="+7 (910) 346 31 71"
+                status="Дистрибьютор"/>
+        <center id="200778" regionid="/1/36/0/1/" city="г. Воронеж"
+                name="Индивидуальный предприниматель Плетнев Илья Вячеславович" email="info@tsifry.com"
+                address="394029, Воронежская область, г. Воронеж, Ленинский проспект, д. 15, оф. 308"
+                phone="+7 (920) 211 65 11" status="Дистрибьютор"/>
+    </region>
+    <region id="99" regname="г. Байконур" center="г. Байконур" county="Вне России" centers="0"/>
+    <region id="92" regname="г. Севастополь" county="Крымский ФО" centers="0"/>
+    <region id="" regname="Германия (ФРГ)" county="Вне России" centers="0"/>
+    <region id="" regname="Грузия" county="Вне России" centers="0"/>
+    <region id="79" regname="Еврейская Аобл." center="г. Биробиджан" county="Дальневосточный ФО" centers="0"/>
+    <region id="75" regname="Забайкальский край" center="г. Чита" county="Сибирский ФО" centers="1">
+        <center id="1590" regionid="/6/75/0/1/" city="г. Чита" name="ООО &quot;Форком&quot;"
+                email="http://fc75.ru, http://форком.рф, info@cntd75.ru"
+                address="672238, Россия, Забайкальский край, г. Чита, ул. Шилова, д. 43" phone="+7 (3022) 33 50 05"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="37" regname="Ивановская обл." center="г. Иваново" county="Центральный ФО" centers="2">
+        <center id="11366" regionid="/1/37/0/1/" city="г. Иваново" name="ООО ИТЦ &quot;ЭКСПЕРТ&quot;"
+                email="www.itcexp.ru" address="153000, Ивановская область, г. Иваново, ул. Варенцовой, д. 9/18, оф. 427"
+                phone="+7 (499) 404 18 33" status="Дистрибьютор"/>
+        <center id="34196" regionid="/1/37/0/1/" city="г. Иваново"
+                name="Индивидуальный предприниматель Колесниченко Андрей Григорьевич" email="ak.kodeks@yandex.ru"
+                address="153002, Ивановская область, г. Иваново, проспект Ленина, 102-26" phone="+7 (930) 330 24 39"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="38" regname="Иркутская обл." center="г. Иркутск" county="Сибирский ФО" centers="3">
+        <center id="1511" regionid="/6/38/0/3/" city="г. Иркутск"
+                name="ООО &quot;Центр нормативно-технической документации&quot; (ГРУППА КОМПАНИЙ &quot;ИНТЕРА&quot;)"
+                email="www.intera-gk.ru, cntd@irk.ru"
+                address="664007, Иркутская область, г. Иркутск, ул. Свердлова, д. 40, оф. 305/309"
+                phone="+7 (3952) 50 08 42" status="Дистрибьютор"/>
+        <center id="1714" regionid="/6/38/0/3/" city="г. Иркутск"
+                name="ООО Информационное агентство &quot;Референт&quot;"
+                email="http://referent.cntd.ru, kodeks@baikaldoc.ru"
+                address="664000, г. Иркутск, ул. Советская, 109/1, оф 221 (БЦ Ладога)" phone="+7 (3952) 26 59 47"
+                status="Дистрибьютор"/>
+        <center id="200971" regionid="/6/38/0/3/" city="г. Иркутск"
+                name="Общество с ограниченной ответственностью &quot;Профессиональные системы&quot;"
+                email="techexpertsystem@yandex.ru"
+                address="664025, Иркутская область, г. Иркутск, ул. 5-й Армии, д. 29, оф. 200"
+                phone="+7 (3952) 43 65 99" status="Дистрибьютор"/>
+    </region>
+    <region id="7" regname="Кабардино-Балкарская Респ." center="г. Нальчик" county="Северо-Кавказский ФО" centers="0"/>
+    <region id="" regname="Казахстан" county="Вне России" centers="0"/>
+    <region id="39" regname="Калининградская обл." center="г. Калининград" county="Северо-Западный ФО" centers="4">
+        <center id="2407" regionid="/2/39/0/1/" city="г. Калининград" name="ИП Поляков Алексей Анатольевич"
+                email="https://kaliningrad.cntd.ru/, resurs39@gmail.com"
+                address=" 236006 г. Калининград, ул. Больничная, 24 офис. 32" phone="+7 (900) 565 37 47"
+                status="Дистрибьютор"/>
+        <center id="3174" regionid="/2/39/0/1/" city="г. Калининград" name="ИП Денисенко Андрей Борисович"
+                email="http://yantar.cntd.ru/, kodeks39@ya.ru"
+                address="238326, Калининградская обл., г. Зеленоградск, ул. Московская, 68/73"
+                phone="+7 (900) 567 52 50" status="Дистрибьютор"/>
+        <center id="52213" regionid="/2/39/0/1/" city="г. Калининград"
+                name="ООО &quot;НТД СОФТ&quot; (ГРУППА КОМПАНИЙ &quot;ИНТЕРА&quot;)" email="ntd-soft@mail.ru"
+                address="236040, г. Калининград, переулок Майский, д.3, офис (помещение) 7" phone="+7 (4012) 99 44 45"
+                status="Дистрибьютор"/>
+        <center id="13833" regionid="/2/39/0/1/" city="г. Калининград"
+                name="Общество с ограниченной ответственностью &quot;Деловые информационные системы&quot;"
+                phone="8 800 700 25 37" status="Дистрибьютор"/>
+    </region>
+    <region id="40" regname="Калужская обл." center="г. Калуга" county="Центральный ФО" centers="4">
+        <center id="710" regionid="/1/40/0/2/" city="г. Обнинск"
+                name="ООО &quot;Компания &quot;Современные технологии&quot;" email="www.st-40.ru, kodeks@st-40.ru"
+                address="249037, г. Обнинск, ул. Ленина, 123, 3 этаж, оф. 310"
+                phone="+7 (484) 396 51 51, +7 (4842) 59 65 63" status="Дистрибьютор"/>
+        <center id="32949" regionid="/1/40/0/2/" city="г. Обнинск"
+                name="Общество с ограниченной ответственностью &quot;Современные технологии&quot;"
+                email="www.st-40.ru, kodeks@st-40.ru, tehkodeks@st-40.ru"
+                address="249035, г. Обнинск, пр. Ленина, д. 123, офис 310" phone="+7 (484) 396 51 51"
+                status="Дистрибьютор"/>
+        <center id="711" regionid="/1/40/0/2/" city="г. Обнинск"
+                name="ООО &quot;Компания &quot;Современные технологии&quot;" email="www.st-40.ru, kodeks@st-40.ru"
+                address="249035, Калужская обл., г.Обнинск, пр.Ленина,д.123, оф.310"
+                phone="+7 (484) 396 51 51, +7 (4842) 59 65 63" status="Дистрибьютор"/>
+        <center id="3053" regionid="/1/40/0/1/" city="г. Калуга"
+                name="ООО &quot;Компания &quot;Современные технологии&quot;" email="www.st-40.ru, kodeks@obninsk.com"
+                address="г.Обнинск, Калужская обл., пр-т Ленина, д.123, 3 этаж, оф. 310"
+                phone="+7 (484) 396 51 51, +7 (4842) 59 65 63" status="Дистрибьютор"/>
+    </region>
+    <region id="41" regname="Камчатский край" center="г. Петропавловск-Камчатский" county="Дальневосточный ФО"
+            centers="0"/>
+    <region id="9" regname="Карачаево-Черкесская Респ." center="г. Черкесск" county="Северо-Кавказский ФО" centers="0"/>
+    <region id="42" regname="Кемеровская обл." center="г. Кемерово" county="Сибирский ФО" centers="8">
+        <center id="1706" regionid="/6/42/0/9/" city="г. Кемерово" name="ООО &quot;Стандарт&quot;"
+                email="www.gk-standart.ru, office@gk-standart.ru"
+                address="650070, г. Кемерово, ул. Свободы, д. 13, офис 338" phone="8 800 700 92 00"
+                status="Дистрибьютор"/>
+        <center id="1536" regionid="/6/42/0/9/" city="г. Кемерово"
+                name="Общество с ограниченной ответственностью &quot;Группа компаний &quot;Кодекс&quot;"
+                email="www.kodeks-sib.ru, info@kodeks-sib.ru" address=" 625032, г. Тюмень, ул. Заполярная,13-85"
+                phone="+7 (922) 036 56 33, 8 800 700 01 40" status="Дистрибьютор"/>
+        <center id="5323" regionid="/6/42/0/12/" city="г. Новокузнецк"
+                name="Общество с ограниченной ответственностью &quot;Техэксперт-Регионы&quot;"
+                email="www.kodeks-sib.ru, info@kodeks-sib.ru"
+                address="654041, Кемеровская область, г. Новокузнецк, ул. Кутузова, д. 39, оф. 404А"
+                phone="+7 (3812) 50 36 12, 8 800 700 01 40" status="Дистрибьютор"/>
+        <center id="1535" regionid="/6/42/0/9/" city="г. Кемерово"
+                name="Общество с ограниченной ответственностью &quot;Сибирский центр нормативно-технической документации &quot;СТАНДАРТ&quot;"
+                email="www.gk-standart.ru, office@gk-standart.ru"
+                address="650000 г. Кемерово, ул. Шестакова, д. 6, офис 301-307" phone="+7 (3842) 75 07 57"
+                status="Дистрибьютор"/>
+        <center id="190507" regionid="/6/42/0/9/" city="г. Кемерово"
+                name="ООО &quot;Консалтинговая группа &quot;Бизнес-Технологии&quot;" email="ntd42.cntd.ru, bt42@bt42.ru"
+                address="650004, Кемеровская область, г. Кемерово, ул. Соборная, д. 8, 585" phone="+7 (3842) 59 57 57"
+                status="Дистрибьютор"/>
+        <center id="43770" regionid="/6/42/0/12/" city="г. Новокузнецк"
+                name="Общество с ограниченной ответственностью &quot;Техэксперт-Регионы&quot;"
+                email="www.kodeks-sib.ru, info@kodeks-sib.ru"
+                address="654041, г. Новокузнецк, ул. Кутузова, 39, оф. 404а" phone="+7 (3843) 33 06 01"
+                status="Дистрибьютор"/>
+        <center id="1529" regionid="/6/42/0/12/" city="г. Новокузнецк" name="ООО &quot;Стандарт&quot;"
+                email="www.gk-standart.ru, nvk@gk-standart.ru"
+                address="Кемеровская область, г. Новокузнецк, ул. Орджоникидзе, д. 28 &quot;А&quot;, офис 1 &quot;Б&quot;"
+                phone="+7 (3843) 33 28 33, 8 800 700 92 00" status="Дистрибьютор"/>
+        <center id="1541" regionid="/6/42/0/9/" city="г. Кемерово"
+                name="Общество с ограниченной ответственностью &quot;Кодекс-Томь&quot;"
+                email="www.gk-standart.ru, office@kodekstom.ru"
+                address="650070, г. Кемерово, ул. Свободы, д. 13, офис 338" phone="8 800 700 92 00"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="" regname="Киргизская Республика (Киргизстан)" county="Вне России" centers="0"/>
+    <region id="43" regname="Кировская обл." center="г. Киров" county="Приволжский ФО" centers="1">
+        <center id="3990" regionid="/4/43/0/1/" city="г. Киров"
+                name="Общество с ограниченной ответственностью &quot;Информпроект&quot;"
+                email="http://www.iprosoft.ru/, hotline@iprosoft.ru"
+                address="610035, Кировская область, г. Киров, ул. Воровского, д. 78А, оф. 805"
+                phone="+7 (8332) 22 25 00, +7 (8332) 71 12 66, +7 (8332) 71 52 82, 8 800 100 49 50"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="44" regname="Костромская обл." center="г. Кострома" county="Центральный ФО" centers="1">
+        <center id="6474" regionid="/1/44/1/1/" city="г. Кострома" name="ИП Крайнова Евгения Вадимовна"
+                email="kodeks44@mail.ru" address="г. Кострома, ул. Галичская, 47 А, литера А2, каб. 40"
+                phone="+7 (4942) 45 71 40" status="Дистрибьютор"/>
+    </region>
+    <region id="23" regname="Краснодарский край" center="г. Краснодар" county="Южный ФО" centers="8">
+        <center id="6188" regionid="/3/23/0/1/" city="г. Краснодар" name="ООО &quot;КодексМедиаИнформ&quot;"
+                email="www.kmi.ru, kmi5@mail.ru"
+                address="350002, Краснодарский край, г. Краснодар,  ул. Березанская д. 41, оф.6"
+                phone="+7 (861) 275 23 10" status="Дистрибьютор"/>
+        <center id="1003" regionid="/3/23/0/1/" city="г. Краснодар" name="ИП Макеев М.Н."
+                email="www.kmi.ru, kmi5@mail.ru"
+                address="350002, Краснодарский край, г. Краснодар,  ул. Березанская д. 41, оф.6"
+                phone="+7 (861) 275 23 10" status="Дистрибьютор"/>
+        <center id="999" regionid="/3/23/0/1/" city="г. Краснодар"
+                name="Общество с ограниченной ответственностью &quot;Информпроект-Кодекс&quot;"
+                email="http://www.iprosoft.ru, hotline_kodeks@iprosoft.ru"
+                address="350075, г. Краснодар, ул. Стасова, д. 182/1, оф. 31, ТРК &quot;Меридиан&quot;"
+                phone="+7 (861) 200 19 83, +7 (861) 200 19 84, 8 800 100 49 50" status="Дистрибьютор"/>
+        <center id="25742" regionid="/3/23/0/1/" city="г. Краснодар"
+                name="Общество с ограниченной ответственностью &quot;Центр нормативно-технической документации &quot;Кодекс&quot;"
+                email="http://www.iprosoft.ru/, hotline@iprosoft.ru"
+                address="350075, Краснодарский край, г. Краснодар, ул. Стасова, д. 182/1, пом. 22"
+                phone="8 800 100 49 50" status="Дистрибьютор"/>
+        <center id="1771" regionid="/3/23/0/6/" city="г. Новороссийск"
+                name="Общество с ограниченной ответственностью &quot;ТехноВектор&quot;"
+                email="http://dsochi.cntd.ru, tehnovektor1736@mail.ru"
+                address="353900, Краснодарский край, г. Новороссийск, ул. Малоземельская, 16, офис 1"
+                phone="+7 (988) 237 09 15, +7 (988) 310 40 70" status="Дистрибьютор"/>
+        <center id="1012" regionid="/3/23/0/7/" city="г. Сочи"
+                name="Индивидуальный предприниматель Красовский Владимир Владимирович"
+                email="http://dsochi.cntd.ru, skodeks@mail.ru"
+                address="354000, Краснодарский край, г. Сочи, ул. Горького, д. 87, офис 265" phone="+7 (988) 237 09 15"
+                status="Дистрибьютор"/>
+        <center id="1011" regionid="/3/23/0/7/" city="г. Сочи" name="ООО &quot;Партнер&quot;"
+                email="http://dsochi.cntd.ru, skodeks@mail.ru"
+                address="Краснодарский край, г. Сочи, ул. Горького, д. 87, оф. 265" phone="+7 (988) 237 09 15"
+                status="Дистрибьютор"/>
+        <center id="990" regionid="/3/23/0/1/" city="г. Краснодар"
+                name="Индивидуальный предприниматель Макеев Максим Николаевич" email="www.kmi.ru, Kmi5@mail.ru"
+                phone="+7 (861) 275 23 10" status="Дистрибьютор"/>
+    </region>
+    <region id="24" regname="Красноярский край" center="г. Красноярск" county="Сибирский ФО" centers="8">
+        <center id="1484" regionid="/6/24/0/1/" city="г. Красноярск"
+                name="ООО &quot;Производственно-коммерческая фирма &quot;ИНФОРМСЕРВИС&quot;"
+                email="http://www.is-kras.ru , kodeks@is-kras.ru"
+                address="г. Красноярск, Красноярский край, ул. Маерчака, д. 38, оф. 513, 5 этаж  "
+                phone="+7 (391) 226 66 62" status="Дистрибьютор"/>
+        <center id="1490" regionid="/6/24/0/1/" city="г. Красноярск" name="ООО &quot;Информационный центр ПРОФИТ&quot;"
+                email="https://cntd-sib.ru/, info@cntd-sib.ru"
+                address="660075, Красноярский край, г. Красноярск, ул. Маерчака, д. 16, офис 6-02"
+                phone="+7 (391) 223 81 12, +7 (391) 223 91 12, +7 (391) 296 94 69" status="Дистрибьютор"/>
+        <center id="5349" regionid="/6/24/0/1/" city="г. Красноярск"
+                name="Общество с ограниченной ответственностью  &quot;ТехноСофт&quot;"
+                email="https://tehnosoft.cntd.ru/, 24kodeks@mail.ru, bsofter@mail.ru"
+                address="660098 Красноярский край, г. Красноярск, ул. Авиаторов, д. 54" phone="+7 (913) 521 64 24"
+                status="Дистрибьютор"/>
+        <center id="189888" regionid="/6/24/0/1/" city="г. Красноярск"
+                name="Общество с ограниченной ответственностью &quot;Аккредо&quot;" email="info@accredo.pro"
+                address="660012, Красноярский край, г. Красноярск, ул. Анатолия Гладкова, д. 4, оф. 533"
+                phone="+7 (391) 222 07 12" status="Дистрибьютор"/>
+        <center id="1462" regionid="/6/24/0/1/" city="г. Красноярск"
+                name="Общество с ограниченной ответственностью &quot;ПРОФИТ&quot;"
+                email="http://www.cntd-sib.ru, info@cntd-sib.ru"
+                address="660075, Красноярский край, г. Красноярск, ул. Маерчака, д. 16, офис 6-05"
+                phone="+7 (391) 223 81 12, +7 (391) 223 91 12, +7 (391) 296 94 69" status="Дистрибьютор"/>
+        <center id="1467" regionid="/6/24/0/1/" city="г. Красноярск"
+                name="Общество с ограниченной ответственностью &quot;Информсервис&quot;"
+                email="http://www.is-kras.ru, kodeks@is-kras.ru"
+                address="660075, г.Красноярск, Красноярский край, ул.Маерчака, д.38,  5 этаж" phone="+7 (391) 226 66 62"
+                status="Дистрибьютор"/>
+        <center id="1480" regionid="/6/24/0/1/" city="г. Красноярск"
+                name="Общество с ограниченной ответственностью &quot;Инфо-Сервис&quot;"
+                email="http://www.is-kras.ru, is@is-kras.ru"
+                address="г. Красноярск, Красноярский край, ул. Маерчака, д. 38, оф. 514, 5 этаж  "
+                phone="+7 (391) 221 55 25" status="Дистрибьютор"/>
+        <center id="25944" regionid="/6/24/0/1/" city="г. Красноярск"
+                name="Индивидуальный предприниматель Евсюков Павел Александрович"
+                email="https://tehnosoft.cntd.ru, 24kodeks@mail.ru, bsofter@mail.ru"
+                address="660098, Красноярский край, г. Красноярск, ул. Авиаторов, д. 54" phone="+7 (913) 521 64 24"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="45" regname="Курганская обл." center="г. Курган" county="Уральский ФО" centers="2">
+        <center id="1323" regionid="/5/45/0/1/" city="г. Курган"
+                name="МЦНТД &quot;ТЕХЭКСПЕРТ-ИНФО&quot; (ИП Браун Ирина Сергеевна)"
+                email="http://info.cntd.ru, expert@kodeks-kgn.ru, office@kodeks-kgn.ru"
+                address="640006, г. Курган, ул. Куйбышева, 155 - 2" phone="+7 (3522) 62 98 89" status="Дистрибьютор"/>
+        <center id="10939" regionid="/5/45/0/1/" city="г. Курган"
+                name="Индивидуальный предприниматель Базанов Денис Александрович" email="denis@kodeks-kgn.ru"
+                address="г. Курган, ул. К. Мяготина, 93-44" phone="+7 (912) 577 36 63" status="Дистрибьютор"/>
+    </region>
+    <region id="46" regname="Курская обл." center="г. Курск" county="Центральный ФО" centers="1">
+        <center id="729" regionid="/1/46/0/1/" city="г. Курск" name="ООО &quot;Визард&quot;"
+                email="https://wikur.ru/, askwizard@mail.ru" address="г.Курск, Курская обл., ул.Ленина, д.90/2, оф.412"
+                phone="+7 (4712) 54 15 91" status="Дистрибьютор"/>
+    </region>
+    <region id="" regname="Латвийская Республика (Латвия)" county="Вне России" centers="0"/>
+    <region id="48" regname="Липецкая обл." center="г. Липецк" county="Центральный ФО" centers="2">
+        <center id="49456" regionid="/1/48/0/1/" city="г. Липецк" name="ООО &quot;Л-БИТ&quot;" email="http://l-bit.ru"
+                address="398002, г. Липецк, ул. Балмочных С.Ф., влад. 11, пом. 38 (офис 3-21)"
+                phone="+7 (4742) 50 65 34" status="Дистрибьютор"/>
+        <center id="731" regionid="/1/48/0/1/" city="г. Липецк" name="ООО &quot;ИК Л-БИТ&quot;"
+                email="https://l-bit.ru, cntd@l-bit.ru" address="398002, г.Липецк ул. Балмочных . д.15, к..3-22"
+                phone="+7 (4742) 50 65 34, +7 (4742) 50 65 37" status="Дистрибьютор"/>
+    </region>
+    <region id="" regname="Литовская Республика (Литва)" county="Вне России" centers="0"/>
+    <region id="49" regname="Магаданская обл." center="г. Магадан" county="Дальневосточный ФО" centers="0"/>
+    <region id="50" regname="Москва и Московская обл." center="г. Москва" county="Центральный ФО" centers="19">
+        <center id="160" regionid="/1/77/" city="г. Москва" name="Закрытое акционерное общество &quot;Кодекс-МСК&quot;"
+                email="http://kodeks-msk.ru, msk@kodeks.ru" address="г.Москва, ул. Правды, д. 24, офис 411"
+                phone="+7 (495) 677 88 70" status="Дистрибьютор"/>
+        <center id="2412" regionid="/1/77/" city="г. Москва" name="ООО &quot;Техноллект&quot;"
+                email="https://tehnolet.cntd.ru/, hot@technollect.ru"
+                address="107564, г. Москва, ул. Краснобогатырская, д. 2, стр. 73" phone="+7 (495) 542 50 71"
+                status="Дистрибьютор"/>
+        <center id="10900" regionid="/1/77/" city="г. Москва" name="ООО &quot;Новатех&quot;"
+                email="www.novateh.ru, kola2000@mail.ru"
+                address="111123, г. Москва, ул. Плеханова, д. 4А, эт. 8, пом. XXIV, комн. 14" phone="+7 (905) 519 11 59"
+                status="Дистрибьютор"/>
+        <center id="831" regionid="/1/77/" city="г. Москва" name="МГК &quot;Информпроект&quot;"
+                email="http://dinformpro.cntd.ru, http://www.iprosoft.ru"
+                address="125167, г. Москва, 4-ая ул. 8 Марта, д. 6 А, оф. 1" phone="+7 (495) 679 84 86"
+                status="Дистрибьютор"/>
+        <center id="842" regionid="/1/77/" city="г. Москва" name="ООО &quot;ИнТех ПРО-ИНФО&quot;"
+                email="http://www.proinfosoft.ru, kodeks@proinfosoft.ru"
+                address="115419, г. Москва, ул. Орджоникидзе, д. 11,стр. 40" phone="+7 (495) 730 07 66"
+                status="Дистрибьютор"/>
+        <center id="859" regionid="/1/77/" city="г. Москва" name="ООО &quot;ЦНТД Кодекс Люкс&quot;"
+                email="https://kodeksluks.ru/, cntd@kodeksluks.ru" address="г. Москва, Кронштадтский бульвар, д. 16а"
+                phone="+7 (495) 640 23 44, 8 800 500 23 44" status="Дистрибьютор"/>
+        <center id="2538" regionid="/1/50/0/19/" city="г. Фрязино" name="ООО «Лидер Инфо»"
+                email="www.liderinfo.pro, client@kodeksinfo.ru" address="141196, Московская область, г.Фрязино"
+                phone="+7 (499) 713 55 11" status="Дистрибьютор"/>
+        <center id="736" regionid="/1/50/0/21/" city="г. Электросталь"
+                name="ООО &quot;Центр нормативно-технической документации &quot;Регламент&quot;"
+                email="http://www.cntd-reglament.ru, info@cntd-reglament.ru"
+                address="144001, Московская область, г. Электросталь, ул. Октябрьская, д. 38" phone="+7 (495) 221 12 76"
+                status="Дистрибьютор"/>
+        <center id="1746" regionid="/1/50/19/1/" city="г. Мытищи" name="ООО &quot;ТехИнформ&quot;"
+                email="https://dmytischi.cntd.ru/, mail@510-31-30.ru"
+                address="141009, Московская обл., г. Мытищи, ул. Колонцова д. 5" phone="+7 (495) 510 31 30"
+                status="Дистрибьютор"/>
+        <center id="12212" regionid="/1/77/" city="г. Москва" name="ЗАО &quot;Бизнес Ай Ти&quot;"
+                email="www.smeta.su, info@smeta.su" address="111033, г. Москва, Таможенный проезд, д. 6, стр. 3"
+                phone="+7 (495) 600 42 42" status="Дистрибьютор"/>
+        <center id="3054" regionid="/1/77/" city="г. Москва" name="ООО «Экомаш инфо»"
+                email="http://ecomash.info, kodeks@ecomash.info"
+                address="107023, г. Москва, ул. Электрозаводская, д. 24, офис А-304" phone="+7 (495) 481 22 20"
+                status="Дистрибьютор"/>
+        <center id="41102" regionid="/1/77/" city="г. Москва"
+                name="Индивидуальный предприниматель Завгородняя Наталья Сергеевна"
+                email="www.liderinfo.pro, zavgorodnyaya.ns@gmail.com"
+                address="117303, г. Москва, ул.Одесская д. 22, корп. 4" phone="+7 (901) 528 02 66"
+                status="Дистрибьютор"/>
+        <center id="63185" regionid="/1/77/" city="г. Москва" name="ГК &quot;Система&quot;" email="office@gk-sistema.ru"
+                phone="8 800 222 25 18" status="Дистрибьютор"/>
+        <center id="187443" regionid="/1/77/" city="г. Москва"
+                name="Общество с ограниченной ответственностью КП &quot;Развитие бизнес систем&quot;"
+                email="https://techexpert-online.ru, cp_rbs@bk.ru" phone="8 800 201 27 12" status="Дистрибьютор"/>
+        <center id="8814" regionid="/1/77/" city="г. Москва"
+                name="Общество с ограниченной ответственностью &quot;Экомаш ИТ&quot;"
+                email="http://ecomash.info, kodeks@ecomash.info"
+                address="почтовый адрес: 107023, г. Москва, ул. Электрозаводская, д. 24, офис А 304, юридический адрес: 107023, г. Москва, ул. Электрозаводская, д. 24, эт. 3, пом. IV, ком. 5 Ж, 5 З"
+                phone="+7 (495) 481 22 20" status="Дистрибьютор"/>
+        <center id="39047" regionid="/1/77/" city="г. Москва"
+                name="Общество с ограниченной ответственностью &quot;Эсколта Софт&quot;" email="info@escotasoft.ru"
+                address="г. Москва, Рязанский пр-кт 32, оф. 215-217" phone="8 800 301 03 57" status="Дистрибьютор"/>
+        <center id="10965" regionid="/1/77/" city="г. Москва"
+                name="Общество с ограниченной ответственностью &quot;Кодекс Люкс&quot;" email="cntd@kodeksluks.ru"
+                address="125212, г. Москва, Кронштадтский бульвар, д. 16а" phone="+7 (495) 640 23 44, 8 800 500 23 44"
+                status="Дистрибьютор"/>
+        <center id="846" regionid="/1/77/" city="г. Москва"
+                name="Общество с ограниченной ответственностью &quot;Информационные Системы ПРО-ИНФО&quot;"
+                email="http://www.proinfosoft.ru, kodeks@proinfosoft.ru"
+                address="115419, г. Москва, ул. Орджоникидзе, д. 11, стр. 2" phone="+7 (495) 730 07 66"
+                status="Дистрибьютор"/>
+        <center id="848" regionid="/1/77/" city="г. Москва"
+                name="Общество с ограниченной ответственностью Центр информационных разработок &quot;СОФТ-АВ&quot;"
+                email="http://dsoftav.cntd.ru, kodeks-tpd@mail.ru"
+                address="125212, г. Москва, Кронштадтский бульвар, д. 16а" phone="+7 (495) 640 23 44, 8 800 500 23 44"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="51" regname="Мурманская обл." center="г. Мурманск" county="Северо-Западный ФО" centers="1">
+        <center id="13832" regionid="/2/51/0/1/" city="г. Мурманск"
+                name="Общество с ограниченной ответственностью &quot;Деловые информационные системы&quot;"
+                phone="+7 (937) 035 12 89, 8 800 700 25 37" status="Дистрибьютор"/>
+    </region>
+    <region id="83" regname="Ненецкий АО" center="г. Нарьян-Мар" county="Северо-Западный ФО" centers="0"/>
+    <region id="52" regname="Нижегородская обл." center="г. Нижний Новгород" county="Приволжский ФО" centers="4">
+        <center id="1196" regionid="/4/52/0/1/" city="г. Нижний Новгород" name="ООО &quot;Браво Софт&quot;"
+                email="http://bravo-soft.ru, http://www.bs-normativ.ru, help@bravosoft.nnov.ru"
+                address="603141, Россия, г. Нижний Новгород, ул. Геологов, д. 1, 5 этаж" phone="+7 (831) 200 30 30"
+                status="Дистрибьютор"/>
+        <center id="1195" regionid="/4/52/0/1/" city="г. Нижний Новгород"
+                name="Общество с ограниченной ответственностью &quot;Центр КОДЕКС&quot;"
+                email="https://bs-normativ.ru/, kodeks@ntci.nnov.ru"
+                address="603107, Нижегородская обл., г. Н. Новгород, проспект Гагарина, д. 176, офис 203"
+                phone="+7 (831) 200 30 35" status="Дистрибьютор"/>
+        <center id="11402" regionid="/4/52/0/1/" city="г. Нижний Новгород"
+                name="Общество с ограниченной ответственностью &quot;Информационный центр&quot;"
+                email="http://www.cntd.ru, info.nino@yandex.ru"
+                address="г. Н.Новгород, ул. Республиканская, д. 43, корп. 5, оф. 121" phone="+7 (920) 011 70 12"
+                status="Дистрибьютор"/>
+        <center id="1702" regionid="/4/52/0/1/" city="г. Нижний Новгород"
+                name="Общество с ограниченной ответственностью &quot;Браво&quot;"
+                email="http://bs-normativ.ru, help@bravosoft.nnov.ru"
+                address="603141, г. Нижний Новгород, ул. Геологов, д. 1, помещение П33, 5 этаж"
+                phone="+7 (831) 200 30 30" status="Дистрибьютор"/>
+    </region>
+    <region id="53" regname="Новгородская обл." center="г. Великий Новгород" county="Северо-Западный ФО" centers="3">
+        <center id="1715" regionid="/2/53/0/1/" city="г. Великий Новгород"
+                name="Общество с ограниченной ответственностью &quot;Решения Для Бизнеса&quot;"
+                email="http://техэксперт.онлайн, info@tehexpert.online"
+                address="173021, г. Великий Новгород, ул. Нехинская, д. 12, оф. 412"
+                phone="+7 (8162) 50 20 16, +7 (8162) 60 18 17, 8 800 550 17 26" status="Дистрибьютор"/>
+        <center id="176264" regionid="/2/53/0/1/" city="г. Великий Новгород"
+                name="Общество с ограниченной ответственностью &quot;Техэксперт.онлайн&quot;"
+                email="http://техэксперт.онлайн, info@tehexpert.online"
+                address="173021, г. Великий Новгород, ул. Нехинская, д. 12, оф. 412"
+                phone="+7 (8162) 50 20 16, 8 800 550 17 26" status="Дистрибьютор"/>
+        <center id="11286" regionid="/2/53/0/1/" city="г. Великий Новгород"
+                name="Общество с ограниченной ответственностью &quot;Информационные решения&quot; "
+                email="http://техэксперт.онлайн, info@tehexpert.online"
+                address="173021, г. Великий Новгород, ул. Нехинская, д. 12, оф. 412"
+                phone="+7 (8162) 50 20 16, 8 800 550 17 26" status="Дистрибьютор"/>
+    </region>
+    <region id="54" regname="Новосибирская обл." center="г. Новосибирск" county="Сибирский ФО" centers="6">
+        <center id="3452" regionid="/6/54/0/1/" city="г. Новосибирск"
+                name="ООО &quot;Первая информационная компания&quot;" email="https://pik.cntd.ru, pik_nsk@mail.ru  "
+                address="630020, Новосибирск, Фадеева, д. 1 а" phone="+7 (383) 381 71 72" status="Дистрибьютор"/>
+        <center id="1894" regionid="/6/54/0/1/" city="г. Новосибирск"
+                name="Общество с ограниченной ответственностью &quot;Компания Кодекс-Сибирь&quot;"
+                email="http://dnovosibirsk.cntd.ru, kodsib@ngs.ru"
+                address="630087, г. Новосибирск, пр. К.Маркса 30/1, оф. 422, 423"
+                phone="+7 (383) 238 05 07, +7 (383) 238 05 48" status="Дистрибьютор"/>
+        <center id="182575" regionid="/6/54/0/1/" city="г. Новосибирск"
+                name="Общество с ограниченной ответственностью &quot;Информпроект-Сибирь&quot;"
+                email="www.iprosoft.ru, novosibirsk@iprosoft.ru"
+                address="630049, г. Новосибирск, пр. Красный, д. 200, оф. 910" phone="+7 (383) 284 03 05"
+                status="Дистрибьютор"/>
+        <center id="201549" regionid="/6/54/0/1/" city="г. Новосибирск"
+                name="Индивидуальный предприниматель Головырин Сергей Анатольевич" email="info@soft-techexpert.ru"
+                phone="+7 (953) 873 03 74" status="Дистрибьютор"/>
+        <center id="6227" regionid="/6/54/0/1/" city="г. Новосибирск"
+                name="Общество с ограниченной ответственностью &quot;Стандарт&quot;"
+                email="http://www.gk-standart.ru, nsk@gk-standart.ru"
+                address="630091, Новосибирская область, г. Новосибирск, ул. Фрунзе, д. 5, оф. 637"
+                phone="8 800 700 92 00" status="Дистрибьютор"/>
+        <center id="37075" regionid="/6/54/0/1/" city="г. Новосибирск"
+                name="ООО &quot;Центр Нормативно-Технической Документации&quot; (ГРУППА КОМПАНИЙ &quot;ИНТЕРА&quot;)"
+                email="cntd-nsk@mail.ru" address="630087, г. Новосибирск, ул. Немировича-Данченко 165, офис 711"
+                phone="+7 (383) 319 68 71, +7 (908) 776 27 73" status="Дистрибьютор"/>
+    </region>
+    <region id="55" regname="Омская обл." center="г. Омск" county="Сибирский ФО" centers="2">
+        <center id="1575" regionid="/6/55/0/1/" city="г. Омск" name="ООО &quot;ТехЭксперт&quot;"
+                email="http://domsk.cntd.ru, market@55omsk.ru"
+                address="644043, г. Омск, ул. Больничный переулок, д. 6, оф. 47/1, этаж 4" phone="+7 (3812) 91 02 04"
+                status="Дистрибьютор"/>
+        <center id="1571" regionid="/6/55/0/1/" city="г. Омск"
+                name="ООО &quot;Информационное агентство &quot;Деловой Омск&quot;"
+                email="http://domsk.cntd.ru, market@55omsk.ru"
+                address="644043, г. Омск, ул. Больничный переулок, д. 6, оф. 47/1, этаж 4" phone="+7 (3812) 91 02 04"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="56" regname="Оренбургская обл." center="г. Оренбург" county="Приволжский ФО" centers="1">
+        <center id="1209" regionid="/4/56/0/1/" city="г. Оренбург" name="ООО &quot;Интеллект-Софт&quot;"
+                email="https://intels.org/, kodeks@intels.org" address="г. Оренбург, ул. Терешковой, д.138/3"
+                phone="+7 (3532) 53 45 50, +7 (3532) 53 45 70" status="Дистрибьютор"/>
+    </region>
+    <region id="57" regname="Орловская обл." center="г. Орёл" county="Центральный ФО" centers="3">
+        <center id="20883" regionid="/1/57/0/1/" city="г. Орёл" name="ООО ГК &quot;КОДЕКС&quot;"
+                email="kodeks-TechExpert@yandex.ru"
+                address="302030, Орловская область, г. Орел, ул. Московская, д. 69, ЛИТЕРА &quot;В&quot;, пом. 7"
+                phone="+7 (4862) 78 31 17" status="Дистрибьютор"/>
+        <center id="3172" regionid="/1/57/0/1/" city="г. Орёл" name="ООО &quot;ТЕХЭКСПЕРТ&quot;"
+                email="https://kt032.ru/, kodeks-hotline@yandex.ru" address="241019, г. Брянск, пер.Осоавиахима, д.3А"
+                phone="+7 (4862) 44 53 13, 8 (804) 333 09 80" status="Дистрибьютор"/>
+        <center id="56123" regionid="/1/57/0/1/" city="г. Орёл"
+                name="Индивидуальный предприниматель МЕДОЛАЗОВА АНТОНИНА ВЛАДИМИРОВНА"
+                email="kodeks-TechExpert@yandex.ru" address="г. Орел, ул. Октябрьская, д. 136/37"
+                phone="+7 (961) 620 55 00" status="Дистрибьютор"/>
+    </region>
+    <region id="58" regname="Пензенская обл." center="г. Пенза" county="Приволжский ФО" centers="1">
+        <center id="1225" regionid="/4/58/0/1/" city="г. Пенза"
+                name="Общество с ограниченной ответственностью &quot;Региональный центр &quot;КОДЕКС-Пенза&quot;"
+                email="http://www.cntd-volgi.ru, cntd-penza@mail.ru" address="г. Пенза, ул. Суворова, 92-2"
+                phone="+7 (8412) 21 49 75" status="Дистрибьютор"/>
+    </region>
+    <region id="59" regname="Пермский край" center="г. Пермь" county="Приволжский ФО" centers="9">
+        <center id="1786" regionid="/4/59/0/1/" city="г. Пермь" name="ООО &quot;Эсколта Софт&quot;"
+                email="www.escoltasoft.ru, info@corpres.ru"
+                address="614107, Пермский край, г. Пермь, ул. Хрустальная, д. 7, оф. 201-202" phone="8 800 222 66 40"
+                status="Дистрибьютор"/>
+        <center id="1245" regionid="/4/59/0/1/" city="г. Пермь" name="МГК &quot;Информпроект&quot;"
+                email="http://www.mgk-ip.ru, cntd-hotline@yandex.ru" address="г. Пермь, ул. Ленина, д. 26, офис 403"
+                phone="+7 (342) 257 19 48, +7 (342) 257 19 49" status="Дистрибьютор"/>
+        <center id="2705" regionid="/4/59/0/1/" city="г. Пермь" name="ООО &quot;Информпроект-Кодекс&quot;"
+                email="http://dinformpro.cntd.ru, http://www.mgk-ip.ru, cntd-hotline@yandex.ru"
+                address="614000, Пермский край, г. Пермь, ул. Ленина, 38 &quot;а&quot;, офис 403"
+                phone="+7 (342) 257 19 49" status="Дистрибьютор"/>
+        <center id="1242" regionid="/4/59/0/1/" city="г. Пермь" name="ООО &quot;Компания Кодекс&quot;"
+                email="https://kodeks.perm.ru/, mikle@kodeks.perm.ru"
+                address="г. Пермь, ул. Аркадия Гайдара, д. 8 Б, оф. 701" phone="+7 (342) 266 16 63"
+                status="Дистрибьютор"/>
+        <center id="1838" regionid="/4/59/0/1/" city="г. Пермь" name="ООО &quot;Софт энд Сервис Компани&quot;"
+                email="https://kodeks.perm.ru/, softservice59@gmail.com"
+                address="614000, г. Пермь, ул. Ленина, д. 50, оф. 412" phone="+7 (342) 215 45 90"
+                status="Дистрибьютор"/>
+        <center id="62450" regionid="/4/59/0/1/" city="г. Пермь"
+                name="Общество с ограниченной ответственностью &quot;Техэксперт Корпоративные Решения&quot;"
+                email="info@corpres.ru"
+                address="614107, Пермский край, Пермский г.о., г. Пермь, ул. Хрустальная, д. 7, оф. 302"
+                phone="8 800 222 66 40" status="Дистрибьютор"/>
+        <center id="1251" regionid="/4/59/0/12/" city="г. Чайковский" name="ООО &quot;Прикам-ИНФОРМ&quot;"
+                email="https://kodeks.perm.ru/, cntd@perm.ru"
+                address="617763, Пермский край, г. Чайковский, ул. Ленина, д. 61а, оф. 22" phone="+7 (922) 309 80 58"
+                status="Дистрибьютор"/>
+        <center id="1247" regionid="/4/59/0/1/" city="г. Пермь" name="ООО &quot;Компания Кодекс&quot;"
+                email="https://kodeks.perm.ru/, office@kodeks.perm.ru" phone="+7 (342) 266 16 63"
+                status="Дистрибьютор"/>
+        <center id="198564" regionid="/4/59/0/1/" city="г. Пермь"
+                name="Общество с ограниченной ответственностью &quot;Адитум-Софт&quot;" email="info@aditum-soft.ru"
+                address="614007, Пермский край, г. Пермь, ул. Тимирязева, д. 24 &quot;А&quot;, оф. 1200"
+                phone="+7 (342) 238 53 09" status="Дистрибьютор"/>
+    </region>
+    <region id="25" regname="Приморский край" center="г. Владивосток" county="Дальневосточный ФО" centers="7">
+        <center id="1607" regionid="/7/25/0/1/" city="г. Владивосток" name="ООО &quot;Кодекс Приморье&quot;"
+                email="www.kodeks.pro, kodprim@rambler.ru" address="г. Владивосток, ул. Дальзаводская, д.2, каб. 204"
+                phone="+7 (423) 202 67 09" status="Дистрибьютор"/>
+        <center id="15328" regionid="/7/25/0/1/" city="г. Владивосток"
+                name="ГК &quot;Софтинформбюро&quot;, ООО &quot;Приморская информационная компания&quot;"
+                email="www.softinfo.ru, kotova@vl.softinfo.ru"
+                address="690002, Владивосток, проспект Красного Знамени д. 59, оф. 701"
+                phone="+7 (423) 239 09 02, +7 (423) 246 94 00" status="Дистрибьютор"/>
+        <center id="1615" regionid="/7/25/0/4/" city="г. Находка" name="ООО &quot;КиТ&quot;" email="kodeks96@gmail.com"
+                address="г.Находка , ул. Кольцевая, 51" phone="+7 (4236) 63 05 84" status="Дистрибьютор"/>
+        <center id="1614" regionid="/7/25/0/11/" city="г. Уссурийск" name="ИП Пронькина М. Э."
+                email="http://dusurisk.cntd.ru, kodeks@etalon1.ru"
+                address="г.Уссурийск, Приморский край, ул.Некрасова, д.94, оф.12" phone="+7 (4234) 33 41 12"
+                status="Дистрибьютор"/>
+        <center id="1612" regionid="/7/25/0/1/" city="г. Владивосток" name="ООО &quot;Догада&quot;"
+                email="http://dogada.cntd.ru, cntd4232@mail.ru"
+                address="Приморский край, г. Владивосток, ул. Пологая, д. 3, оф. 504" phone="+7 (423) 243 33 03"
+                status="Дистрибьютор"/>
+        <center id="46157" regionid="/7/25/0/1/" city="г. Владивосток"
+                name="Общество с ограниченной ответственностью &quot;МИРА&quot;"
+                email="www.kodeks.pro, expert@kodeks.pro"
+                address="690001, Приморский край, г. Владивосток, ул. Дальзаводская, оф. 205" phone="+7 (423) 202 67 09"
+                status="Дистрибьютор"/>
+        <center id="200019" regionid="/7/25/0/1/" city="г. Владивосток"
+                name="Общество с ограниченной ответственностью &quot;Техэксперт Дальний Восток&quot;"
+                email="te_dv@mail.ru" address="690068, г. Вадивосток, ул. Проспект 100-летия Владивостоку 133, оф.37"
+                phone="+7 (966) 276 24 69" status="Дистрибьютор"/>
+    </region>
+    <region id="60" regname="Псковская обл." center="г. Псков" county="Северо-Западный ФО" centers="1">
+        <center id="962" regionid="/2/60/0/1/" city="г. Псков" name="ООО &quot;ИНФОРМАЦИОННЫЙ ЦЕНТР ЗАВЕТ&quot;"
+                email="http://dpskov.cntd.ru, zavet@zavet.psc.ru"
+                address="г.Псков, Псковская обл., ул.Я. Фабрициуса, д. 5-а" phone="+7 (8112) 75 21 67"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="" regname="Респ. Абхазия" county="Вне России" centers="0"/>
+    <region id="1" regname="Респ. Адыгея (Адыгея)" center="г. Майкоп" county="Южный ФО" centers="0"/>
+    <region id="4" regname="Респ. Алтай" center="г. Горно-Алтайск" county="Сибирский ФО" centers="0"/>
+    <region id="" regname="Респ. Армения" county="Вне России" centers="0"/>
+    <region id="2" regname="Респ. Башкортостан" center="г. Уфа" county="Приволжский ФО" centers="7">
+        <center id="1168" regionid="/4/2/0/1/" city="г. Уфа" name="ООО &quot;Информация Будущего&quot;"
+                email="https://futu.ru/, inform@futu.ru"
+                address="450071, Республика Башкортостан, г. Уфа, ул. 50 лет СССР, 48-57"
+                phone="+7 (347) 232 63 78, +7 (347) 275 24 30" status="Дистрибьютор"/>
+        <center id="1162" regionid="/4/2/0/1/" city="г. Уфа" name="ООО &quot;Техэксперт-Проф&quot;"
+                email="https://prof-ufa.cntd.ru/, cntdpravo@mail.ru"
+                address="450071, Республика Башкортостан, г. Уфа, ул.  Ростовская, д. 18, литер А, оф. 301"
+                phone="+7 (347) 266 07 10" status="Дистрибьютор"/>
+        <center id="1858" regionid="/4/2/0/1/" city="г. Уфа" name="ООО &quot;Информразвитие&quot;"
+                email="http://информразвитие.com, ufateh@list.ru"
+                address="450005, РБ, г. Уфа, ул. 50-летия Октября, д. 16, оф. 307"
+                phone="+7 (347) 299 04 00, +7 (960) 382 00 09" status="Дистрибьютор"/>
+        <center id="30429" regionid="/4/2/0/1/" city="г. Уфа"
+                name="Индивидуальный предприниматель Князев Андрей Петрович" email="info@grandrb.ru"
+                phone="+7 (347) 266 10 73" status="Дистрибьютор"/>
+        <center id="1155" regionid="/4/2/0/1/" city="г. Уфа"
+                name="Индивидуальный предприниматель Хафизова Эльза Фанилевна"
+                email="http://информразвитие.com , ufateh@list.ru" address="г. Уфа, ул. 50 лет Октября, д. 16"
+                phone="+7 (347) 299 04 00, +7 (960) 382 00 09" status="Дистрибьютор"/>
+        <center id="1171" regionid="/4/2/42/1/" name="ООО &quot;Информация Будущего&quot;"
+                email="http://www.futu.ru, kodeks@futu.ru"
+                address="453103, Республика Башкортостан, г. Стерлитамак, ул. Одесская, д. 70"
+                phone="+7 (3473) 43 11 57, +7 (3473) 43 44 33" status="Дистрибьютор"/>
+        <center id="189425" regionid="/4/2/42/1/" name="Индивидуальный предприниматель Кадыров Рустам Саримович "
+                address="453103, Республика Башкортостан, г. Стерлитамак, ул. Одесская, 70-87"
+                phone="+7 (3473) 43 11 57" status="Дистрибьютор"/>
+    </region>
+    <region id="3" regname="Респ. Бурятия" center="г. Улан-Удэ" county="Сибирский ФО" centers="0"/>
+    <region id="5" regname="Респ. Дагестан" center="г. Махачкала" county="Северо-Кавказский ФО" centers="0"/>
+    <region id="6" regname="Респ. Ингушетия" center="г. Магас" county="Северо-Кавказский ФО" centers="0"/>
+    <region id="8" regname="Респ. Калмыкия" center="г. Элиста" county="Южный ФО" centers="0"/>
+    <region id="10" regname="Респ. Карелия" center="г. Петрозаводск" county="Северо-Западный ФО" centers="1">
+        <center id="891" regionid="/2/10/0/1/" city="г. Петрозаводск" name="ООО &quot;Кодекс ИТ&quot;"
+                email="http://cntd.karelia.ru, kodeks@karelia.ru"
+                address="Республика Карелия, г. Петрозаводск, ул. Максима Горького, д. 25, оф. 2"
+                phone="+7 (8142) 76 30 83" status="Дистрибьютор"/>
+    </region>
+    <region id="11" regname="Респ. Коми" center="г. Сыктывкар" county="Северо-Западный ФО" centers="2">
+        <center id="898" regionid="/2/11/0/1/" city="г. Сыктывкар" name="ООО &quot;СтройСофт&quot;"
+                email="https://strsoft.cntd.ru, strsoft@kodeks11.ru"
+                address="167000, г.Сыктывкар, Республика Коми,  ул. Оплеснина, д. 4"
+                phone="+7 (8212) 39 12 55, +7 (8212) 39 13 17, +7 (8212) 39 13 27, +7 (8212) 39 13 29"
+                status="Дистрибьютор"/>
+        <center id="899" regionid="/2/11/0/1/" city="г. Сыктывкар" name="ООО &quot;Рекбиз&quot;"
+                email="http://drekbiz.cntd.ru, info@rekbiz.com" address="г.Сыктывкар, ул. Первомайская, д.70, офис 413"
+                phone="+7 (8212) 29 14 22, +7 (8212) 29 14 23" status="Дистрибьютор"/>
+    </region>
+    <region id="91" regname="Респ. Крым" county="Крымский ФО" centers="0"/>
+    <region id="12" regname="Респ. Марий Эл" center="г. Йошкар-Ола" county="Приволжский ФО" centers="0"/>
+    <region id="" regname="Респ. Молдова" county="Вне России" centers="0"/>
+    <region id="13" regname="Респ. Мордовия" center="г. Саранск" county="Приволжский ФО" centers="2">
+        <center id="1094" regionid="/4/13/0/1/" city="г. Саранск"
+                name="ООО &quot;Центр нормативно-технической документации &quot;Техэксперт&quot;"
+                email="http://www.tehekspert-saransk.ru, cntd-saransk@mail.ru"
+                address="430034, г. Саранск, ул. Лодыгина, д. 3, оф. 411 (Здание &quot;Технопарк-Мордовия&quot;)"
+                phone="+7 (8342) 33 34 30, +7 (927) 274 84 19" status="Дистрибьютор"/>
+        <center id="28808" regionid="/4/13/0/1/" city="г. Саранск" name="ООО &quot;РУССТАНДАРТ&quot;"
+                email="rusgost@bk.ru" address="430006, Республика Мордовия, г. Саранск, ул. Центральная, д. 7, пом. 4"
+                phone="+7 (910) 790 03 97, +7 (910) 790 21 11" status="Дистрибьютор"/>
+    </region>
+    <region id="14" regname="Респ. Саха (Якутия)" center="г. Якутск" county="Дальневосточный ФО" centers="1">
+        <center id="3137" regionid="/7/14/0/1/" city="г. Якутск"
+                name="Общество с ограниченной ответственностью &quot;Техэксперт-Якутск&quot;"
+                email="www.cntd.ru, texpert-ykt@mail.ru"
+                address="677000, Республика Саха (Якутия), г. Якутск, ул. Дзержинского, д. 18, офис 3.11"
+                phone="+7 (914) 234 98 90" status="Дистрибьютор"/>
+    </region>
+    <region id="15" regname="Респ. Северная Осетия - Алания" center="г. Владикавказ" county="Северо-Кавказский ФО"
+            centers="0"/>
+    <region id="16" regname="Респ. Татарстан (Татарстан)" center="г. Казань" county="Приволжский ФО" centers="7">
+        <center id="1109" regionid="/4/16/0/1/" city="г. Казань"
+                name="Общество с ограниченной ответственностью  &quot;Информпроект-Кодекс&quot;"
+                email="http://www.iprosoft.ru, tokarev@iprosoft.ru"
+                address="420061, г. Казань, ул. Н.Ершова, д. 29Б, БЦ &quot;Татария&quot;, Офис 701"
+                phone="+7 (843) 567 22 23, +7 (843) 567 22 24, +7 (843) 567 22 25, 8 800 100 49 50"
+                status="Дистрибьютор"/>
+        <center id="10978" regionid="/4/16/0/1/" city="г. Казань" name="ООО &quot;ГРАНДЭКСПЕРТКАЗАНЬ&quot; "
+                email="http://grandexpert16.ru, info@grandexpert16.ru"
+                address="420030, г. Казань, ул. Клары Цеткин, зд. 10, ЭТ/ПОМ 2/72" phone="+7 (843) 240 61 28"
+                status="Дистрибьютор"/>
+        <center id="25744" regionid="/4/16/0/1/" city="г. Казань"
+                name="Общество с ограниченной ответственностью &quot;Центр нормативно-технической документации &quot;Кодекс&quot;"
+                email="www.iprosoft.ru, hotline@iprosoft.ru"
+                address="420061, Республика Татарстан, г. Казань, ул. Н. Ершова, д. 29б, офис 701"
+                phone="8 800 100 49 50" status="Дистрибьютор"/>
+        <center id="1116" regionid="/4/16/0/1/" city="г. Казань" name="ООО &quot;Алдан&quot;"
+                email="www.aldan116.ru, tatkod@mail.ru"
+                address="420111, г. Казань, ул. Лево-Булачная, д. 38, эт. 3, помещение 1, 4" phone="+7 (843) 264 42 80"
+                status="Дистрибьютор"/>
+        <center id="173578" regionid="/4/16/0/1/" city="г. Казань"
+                name="Индивидуальный предприниматель Фахретдинов Раушан Фасхутдинович" email="raushanfa@yandex.ru"
+                address="420059, г. Казань, проспект Универсиады, д. 14, кв 135." phone="+7 (917) 925 80 04"
+                status="Дистрибьютор"/>
+        <center id="1131" regionid="/4/16/31/1/" city="г. Нижнекамск" name="ООО &quot;Алдан&quot;"
+                email="cntdnk@mail.ru" address="423570 г. Нижнекамск ул. Студенческая 6 офис 205 Г"
+                phone="+7 (8555) 36 85 88" status="Дистрибьютор"/>
+        <center id="3100" regionid="/4/16/0/1/" city="г. Казань"
+                name="Индивидуальный предприниматель Емельяненко Сергей Александрович" email="esa116@mail.ru"
+                address="420034, г. Казань, ул. Ленская, д. 10" phone="+7 (919) 642 94 19" status="Дистрибьютор"/>
+    </region>
+    <region id="17" regname="Респ. Тыва" center="г. Кызыл" county="Сибирский ФО" centers="0"/>
+    <region id="19" regname="Респ. Хакасия" center="г. Абакан" county="Сибирский ФО" centers="2">
+        <center id="1435" regionid="/6/19/0/1/" city="г. Абакан" name="ООО &quot;Софт-Альянс&quot;"
+                email="https://dabakan.cntd.ru, grand_abakan@mail.ru"
+                address="655017, Россия, республика Хакасия, г. Абакан, ул. Богдана Хмельницкого, д. 152, пом. 52Н"
+                phone="+7 (3902) 35 87 75, +7 (3902) 35 87 81" status="Дистрибьютор"/>
+        <center id="1438" regionid="/6/19/0/1/" city="г. Абакан" name="ООО &quot;Софт-Альянс&quot;"
+                email="https://dabakan.cntd.ru, grand_abakan@mail.ru"
+                address="г.Абакан, Республика Хакасия, ул.Пушкина, д.65"
+                phone="+7 (3902) 22 42 69, +7 (3902) 35 87 75, +7 (3902) 35 87 81" status="Дистрибьютор"/>
+    </region>
+    <region id="" regname="Респ. Южная Осетия" county="Вне России" centers="0"/>
+    <region id="61" regname="Ростовская обл." center="г. Ростов-на-Дону" county="Южный ФО" centers="5">
+        <center id="1069" regionid="/3/61/0/1/" city="г. Ростов-на-Дону"
+                name="Общество с ограниченной ответственностью &quot;Информпроект-Кодекс&quot;"
+                email="http://www.iprosoft.ru, rostov@iprosoft.ru"
+                address="344029, г. Ростов-на-Дону, ул. Менжинского, дом 2 Л., БЦ &quot;Форум&quot;, оф. 311"
+                phone="+7 (863) 300 15 70, +7 (863) 300 15 71, 8 800 100 49 50" status="Дистрибьютор"/>
+        <center id="1068" regionid="/3/61/0/1/" city="г. Ростов-на-Дону"
+                name="Общество с ограниченной ответственностью &quot;Кодекс Юг&quot;" email="www.kmi.ru, kmi61@mail.ru"
+                address="344007, г. Ростов-на-Дону, ул. Московская, 63, оф. 355 А" phone="+7 (863) 240 83 45"
+                status="Дистрибьютор"/>
+        <center id="25743" regionid="/3/61/0/1/" city="г. Ростов-на-Дону"
+                name="Общество с ограниченной ответственностью &quot;Информпроект&quot;"
+                email="www.iprosoft.ru, hotline@iprosoft.ru"
+                address="344029,  Ростовская область, г. Ростов-на-Дону, ул. Менжинского, 2Л-233, офис 412"
+                phone="8 800 100 49 50" status="Дистрибьютор"/>
+        <center id="1071" regionid="/3/61/0/11/" city="г. Таганрог" name="ИП Мироненко В.В."
+                email="https://teh-ds.cntd.ru/, elvov70@mail.ru"
+                address="347902, г. Таганрог, ул. Трудовых резервов, д. 10, оф. 413 " phone="+7 (928) 617 57 00"
+                status="Дистрибьютор"/>
+        <center id="45850" regionid="/3/61/0/1/" city="г. Ростов-на-Дону" name="ИП Корольчук Анна Николаевна"
+                email="www.kmi.ru, ankorolchuk@kmi.ru"
+                address="344007, Ростовская обл., г. Ростов-на-Дону, ул. Московская, д. 63, оф. 355А"
+                phone="+7 (988) 583 30 40" status="Дистрибьютор"/>
+    </region>
+    <region id="62" regname="Рязанская обл." center="г. Рязань" county="Центральный ФО" centers="1">
+        <center id="24489" regionid="/1/62/0/1/" city="г. Рязань" name="ООО &quot;Техэксперт-Ока&quot; "
+                email="https://техэксперт-рязань.рф, director@oka2000.ru, hotline@oka2000.ru"
+                address="390029, РФ, Рязанская область, г. Рязань, ул. Чкалова, д. 33А, офис 306, 307"
+                phone="+7 (4912) 99 60 10, 8 800 707 81 30" status="Дистрибьютор"/>
+    </region>
+    <region id="63" regname="Самарская обл." center="г. Самара" county="Приволжский ФО" centers="7">
+        <center id="1314" regionid="/4/63/0/1/" city="г. Самара" name="ООО &quot;Деловые информационные системы&quot;"
+                email="www.Company-dis.ru, hotline@company-dis.ru, hotline-kodeks@mail.ru"
+                address="443070, г. Самара, ул. Партизанская, д. 86, офис 629А/2" phone="+7 (8422) 24 20 20"
+                status="Дистрибьютор"/>
+        <center id="1202" regionid="/4/63/0/1/" city="г. Самара"
+                name="Общество с ограниченной ответственностью &quot;Браво Эксперт&quot;"
+                email="http://bs-normativ.ru, help@bravosoft.nnov.ru"
+                address="603152, Нижегородская область,  г. Нижний Новгород, ул. Кащенко, д. 2Б, оф. 212"
+                phone="+7 (831) 200 30 30" status="Дистрибьютор"/>
+        <center id="1275" regionid="/4/63/0/7/" city="г. Тольятти" name="ООО Фирма &quot;Миранда&quot;"
+                email="https://miranda.ru/, cntd@miranda.ru"
+                address="г.Тольятти, ул. Свердлова, 51/21, т/ц &quot;Океан&quot;, 2 этаж" phone="+7 (8482) 42 06 68"
+                status="Дистрибьютор"/>
+        <center id="1284" regionid="/4/63/0/8/" city="г. Сызрань" name="ООО &quot;Радуга Информ Сервис&quot;"
+                email="https://kodeks63.ru/, kodeks-syzran@mail.ru"
+                address="г.Сызрань, Самарская обл., ул.Кирова, д.54, оф.409" phone="+7 (8464) 91 14 09"
+                status="Дистрибьютор"/>
+        <center id="2685" regionid="/4/63/0/1/" city="г. Самара" name="ООО «ПРАЙМ»"
+                email="www.prime-samara.ru, sales@prime-samara.ru"
+                address="443086,  г. Самара, ул. Скляренко, д. 26 оф. 1308" phone="+7 (846) 221 78 48"
+                status="Дистрибьютор"/>
+        <center id="1264" regionid="/4/63/0/1/" city="г. Самара" name="ООО «ПРАЙМ»" email="sales@prime-samara.ru"
+                address="443086,  г. Самара, ул. Скляренко, д. 26 оф. 1308"
+                phone="+7 (846) 221 78 48, +7 (906) 343 55 18" status="Дистрибьютор"/>
+        <center id="1269" regionid="/4/63/0/1/" city="г. Самара" name="ООО &quot;Радуга Информ Сервис&quot;"
+                email="http://kodeks63.ru, kodeks@samaramail.ru"
+                address="г.Самара, Самарская обл., ул. Ерошевского 3 оф. 216" phone="+7 (846) 334 66 12"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="47" regname="Санкт-Петербург и Ленинградская обл." center="г. Санкт-Петербург"
+            county="Северо-Западный ФО" centers="8">
+        <center id="153" regionid="/2/78/" city="г. Санкт-Петербург"
+                name="Общество с ограниченной ответственностью &quot;Кодекс-Лайн&quot;"
+                email="http://spb.cntd.ru, spb@cntd.ru" address="г.Санкт-Петербург, ул. Инструментальная, д.3"
+                phone="+7 (812) 740 78 78" status="Дистрибьютор"/>
+        <center id="54662" regionid="/2/78/" city="г. Санкт-Петербург"
+                name="Общество с ограниченной ответственностью &quot;ТЕХЭКСПЕРТ-ЛАЙН&quot;"
+                email="http://spb.cntd.ru, spb@cntd.ru" address="г. Санкт-Петербург, ул. Инструментальная, д. 3"
+                phone="+7 (812) 740 78 78" status="Дистрибьютор"/>
+        <center id="3113" regionid="/2/78/" city="г. Санкт-Петербург" name="ООО &quot;Ярстандарт&quot;"
+                email="www.y-st.ru, info@y-st.ru"
+                address="191040, г. Санкт-Петербург, Лиговский пр-кт, дом 50, литера О, офис 225"
+                phone="+7 (930) 111 17 65, 8 800 250 74 80" status="Дистрибьютор"/>
+        <center id="973" regionid="/2/78/" city="г. Санкт-Петербург"
+                name="ООО &quot;Северо-Западный региональный центр аэронавигационной информации&quot;"
+                email="http://www.szrcai.ru/io/aviator.php, vpp@szrcai.ru" phone="+7 (812) 702 60 98"
+                status="Дистрибьютор"/>
+        <center id="190405" regionid="/2/78/" city="г. Санкт-Петербург" name="ООО &quot;НТПЦ Решение&quot;"
+                email="info@ntpc-pro.ru"
+                address="194356, г. Санкт-Петербург, проспект Энгельса, д. 124, корпус 1 литер а, помещение 58н"
+                phone="+7 (812) 207 06 80" status="Дистрибьютор"/>
+        <center id="969" regionid="/2/78/" city="г. Санкт-Петербург"
+                name="Общество с ограниченной ответственностью &quot;СофтМастер&quot;" email="wkeep@yandex.ru"
+                address="г.Санкт-Петербург, ул.Садовая, 53, оф. 77,78" phone="+7 (812) 310 02 46, +7 (924) 310 68 87"
+                status="Дистрибьютор"/>
+        <center id="945" regionid="/2/47/6/1/" city="г. Выборг"
+                name="Общество с ограниченной ответственностью &quot;Центр правовой и нормативно-технической информации&quot;"
+                email="http://www.centr-pnti.ru, centr-pnti@rambler.ru"
+                address="Ленинградская обл., г. Выборг, ул. 1-я Речная, д.4" phone="+7 (911) 922 31 43"
+                status="Дистрибьютор"/>
+        <center id="187792" regionid="/2/78/" city="г. Санкт-Петербург"
+                name="Общество с ограниченной ответственностью &quot;ИндигоСофт&quot;"
+                email="http://техэксперт.site, info@proindi.ru"
+                address="198152, г. Санкт-Петербург, ул. Краснопутиловская, д. 69, литера А, офис 515В"
+                phone="+7 (495) 984 51 17, 8 800 555 51 17" status="Дистрибьютор"/>
+    </region>
+    <region id="64" regname="Саратовская обл." center="г. Саратов" county="Приволжский ФО" centers="1">
+        <center id="43560" regionid="/4/64/0/1/" city="г. Саратов"
+                name="Индивидуальный предприниматель Ячменников Владислав Валентинович" email="vladyach@mail.ru"
+                address="410005, г. Саратов, ул.им. Посадского И.Н., д. 180/198 " phone="+7 (904) 244 81 82"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="65" regname="Сахалинская обл." center="г. Южно-Сахалинск" county="Дальневосточный ФО" centers="1">
+        <center id="1639" regionid="/7/65/0/1/" city="г. Южно-Сахалинск" name="ООО &quot;Новый уровень&quot;"
+                email="http://kodeks-sakhalin.ru, kodeks@novur.ru, office@novur.ru"
+                address="693023, г. Южно-Сахалинск, пр-кт Мира, д. 231, офис 401"
+                phone="+7 (4242) 41 39 65, +7 (4242) 41 72 00, +7 (4242) 63 63 05" status="Дистрибьютор"/>
+    </region>
+    <region id="66" regname="Свердловская обл." center="г. Екатеринбург" county="Уральский ФО" centers="5">
+        <center id="1332" regionid="/5/66/0/1/" city="г. Екатеринбург" name="ООО &quot;Компания &quot;Кодекс-Люкс&quot;"
+                email="http://ТЕХДОКУМЕНТАЦИЯ.РФ, mail@kodeks-luks.ru "
+                address="620062, г.Екатеринбург, Свердловская обл., ул. Чебышева, д.6, оф.630"
+                phone="+7 (343) 378 32 89, +7 (343) 378 32 98" status="Дистрибьютор"/>
+        <center id="6292" regionid="/5/66/0/1/" city="г. Екатеринбург" name="ООО ЦНТД &quot;ХХI ВЕК&quot; "
+                email="https://cntd21.ru/, cntd21@gmail.com, ork@cntd21.ru " phone="+7 (343) 377 57 67"
+                status="Дистрибьютор"/>
+        <center id="1342" regionid="/5/66/0/1/" city="г. Екатеринбург"
+                name="ООО &quot;Информационный Центр &quot;КОДЕКС&quot;"
+                email="https://centr-kodeks.ru/, ickodeks@mail.ru"
+                address="620075, Екатеринбург, ул.Мамина-Сибиряка, д.58, оф.702"
+                phone="+7 (343) 301 18 00, +7 (343) 319 99 34" status="Дистрибьютор"/>
+        <center id="1348" regionid="/5/66/0/1/" city="г. Екатеринбург"
+                name="ООО &quot;Информационный Центр &quot;КОДЕКС&quot;"
+                email="http://dinfokodeks.cntd.ru, ickodeks@mail.ru"
+                address="620026, г.Екатеринбург, ул.Мамина-Сибиряка, д.58, оф.702" phone="+7 (343) 319 99 34"
+                status="Дистрибьютор"/>
+        <center id="1330" regionid="/5/66/0/1/" city="г. Екатеринбург"
+                name="Общество с ограниченной ответственностью &quot;Техэксперт&quot;"
+                email="http://ТЕХДОКУМЕНТАЦИЯ.РФ, TExpert2@mail.ru"
+                address="620062, г.Екатеринбург, ул.Чебышева, д.6, оф.625"
+                phone="+7 (343) 378 32 89, +7 (912) 233 46 00" status="Дистрибьютор"/>
+    </region>
+    <region id="67" regname="Смоленская обл." center="г. Смоленск" county="Центральный ФО" centers="2">
+        <center id="778" regionid="/1/67/0/3/" city="г. Смоленск"
+                name="ООО &quot;Департамент правовой поддержки &quot;Кодекс&quot;" email="departament.pp@mail.ru"
+                address="214012, Смоленская обл., г. Смоленск, ул. Ново Ленинградская, д. 4, оф. 208"
+                phone="+7 (4812) 54 24 64" status="Дистрибьютор"/>
+        <center id="780" regionid="/1/67/0/3/" city="г. Смоленск"
+                name="Общество с ограниченной ответственностью &quot;Центр Нормативно-Технической Документации&quot;"
+                email="http://cntd67.ru, cntd-s@mail.ru" address="214019, г. Смоленск, Трамвайный проезд, 12, оф. 27"
+                phone="+7 (4812) 40 31 14, +7 (951) 694 31 14" status="Дистрибьютор"/>
+    </region>
+    <region id="26" regname="Ставропольский край" center="г. Ставрополь" county="Северо-Кавказский ФО" centers="3">
+        <center id="1650" regionid="/8/26/0/1/" city="г. Ставрополь" name="ООО &quot;Софтмаркет&quot;"
+                email="http://www.нтд-юг.рф, ssl54321@yandex.ru"
+                address="355044, г.Ставрополь, пр. Кулакова, 8ж, офис 22" phone="+7 (8652) 25 78 61"
+                status="Дистрибьютор"/>
+        <center id="1647" regionid="/8/26/0/1/" city="г. Ставрополь"
+                name="Общество с ограниченной ответственностью &quot;Ставропольский центр нормативно-технической документации&quot;"
+                email="http://нтд-юг.рф, softmarket@mail.stv.ru"
+                address="355044, г. Ставрополь, пр. Кулакова, д. 8ж офис 22"
+                phone="+7 (8652) 25 78 61, +7 (8652) 29 79 30, +7 (8652) 51 71 17" status="Дистрибьютор"/>
+        <center id="1653" regionid="/8/26/0/7/" city="г. Пятигорск" name="ООО &quot;Софтмаркет&quot;"
+                email="http://www.kodeks.ru, softmarket@mail.stv.ru" phone="+7 (962) 449 71 43" status="Дистрибьютор"/>
+    </region>
+    <region id="68" regname="Тамбовская обл." center="г. Тамбов" county="Центральный ФО" centers="1">
+        <center id="789" regionid="/1/68/0/4/" city="г. Тамбов"
+                name="ООО &quot;Центр нормативно-технической документации&quot;"
+                email="http://cntdtambov.ru, inbox@cntdtambov.ru"
+                address="392016, Тамбовская область, г. Тамбов, бульвар Строителей, д. 2 &quot;б&quot;, 5 этаж, офис 41"
+                phone="+7 (4752) 50 48 04" status="Дистрибьютор"/>
+    </region>
+    <region id="69" regname="Тверская обл." center="г. Тверь" county="Центральный ФО" centers="2">
+        <center id="5955" regionid="/1/69/0/1/" city="г. Тверь" name="ООО &quot;Техэксперт Тверь&quot;"
+                email="https://suntdtver.cntd.ru/,  texpert@suntdtver.ru"
+                address="170019, г. Тверь, ул. Розы Люксембург, д. 89/39, оф. 5, 3 эт." phone="+7 (4822) 73 32 48"
+                status="Дистрибьютор"/>
+        <center id="3020" regionid="/1/69/0/1/" city="г. Тверь"
+                name="ООО &quot;Центр Нормативно- Технической Документации и Сметного Нормирования&quot;"
+                email="http://tver.cntd.ru" address="170034, г. Тверь, пр-т Чайковского, д. 19а, оф. 508, 509"
+                phone="+7 (4822) 34 32 84, +7 (910) 930 43 62" status="Дистрибьютор"/>
+    </region>
+    <region id="70" regname="Томская обл." center="г. Томск" county="Сибирский ФО" centers="3">
+        <center id="1582" regionid="/6/70/0/1/" city="г. Томск" name="ООО &quot;Компания &quot;ЛидерИнфо&quot;"
+                email="http://www.kodeks-sib.ru, op@gk-li.ru"
+                address="634041, Россия, Томская область г.Томск, пр.Кирова, д.51а, стр.5, оф 724"
+                phone="+7 (3822) 50 36 88" status="Дистрибьютор"/>
+        <center id="31815" regionid="/6/70/0/1/" city="г. Томск"
+                name="Общество с ограниченной ответственностью &quot;Техэксперт&quot;"
+                email="www.kodeks-sib.ru, tehru70@yandex.ru"
+                address="634061, Россия, Томская область, г. Томск, пр. Фрунзе, 102-64" phone="+7 (952) 800 62 16"
+                status="Дистрибьютор"/>
+        <center id="57670" regionid="/6/70/0/1/" city="г. Томск"
+                name="Общество с ограниченной ответственностью &quot;Стандарт&quot;"
+                email="http://www.gk-standart.ru, office@gk-standart.ru"
+                address="634059, Томская область, г. Томск. пр. Мира, д.50, офис 102" phone="8 800 700 92 00"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="71" regname="Тульская обл." center="г. Тула" county="Центральный ФО" centers="1">
+        <center id="804" regionid="/1/71/0/1/" city="г. Тула" name="ООО &quot;ИБМ&quot;"
+                email="https://kodekstula.ru, kitchenko.e@yandex.ru"
+                address="300041, Россия, г. Тула, ул. Колетвинова, д. 9" phone="+7 (4872) 70 60 22"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="72" regname="Тюменская обл." center="г. Тюмень" county="Уральский ФО" centers="9">
+        <center id="1365" regionid="/5/72/0/1/" city="г. Тюмень" name="ООО &quot;Бизнес-Альянс&quot;"
+                email="http://www.cntd72.ru, ba_tyumen@mail.ru"
+                address="625033, г. Тюмень, ул. Николая Семенова, д. 29/2 " phone="+7 (3452) 56 80 06"
+                status="Дистрибьютор"/>
+        <center id="1362" regionid="/5/72/0/1/" city="г. Тюмень"
+                name="Общество с ограниченной ответственностью &quot;Информпроект-Кодекс&quot;"
+                email="http://www.iprosoft.ru, tyumen@iprosoft.ru"
+                address="625027, г. Тюмень, ул. Киевская, д. 74а/1, 5 этаж, офис 17"
+                phone="+7 (3452) 40 96 51, +7 (3452) 40 96 52, 8 800 100 49 50" status="Дистрибьютор"/>
+        <center id="1361" regionid="/5/72/0/1/" city="г. Тюмень"
+                name="Общество с ограниченной ответственностью &quot;Центр нормативно-технической документации &quot;Кодекс&quot;"
+                email="www.iprosoft.ru, hotline@iprosoft.ru"
+                address="625027, Тюменская область, г. Тюмень , ул. Киевская, д. 74а/1" phone="8 800 100 49 50"
+                status="Дистрибьютор"/>
+        <center id="1419" regionid="/5/72/0/1/" city="г. Тюмень" name="ООО КП &quot;Развитие бизнес систем&quot;"
+                email="cp_rbs@bk.ru"
+                address="625031, Россия, Тюменская область, ХМАО-Югра, г. Тюмень, ул. Дружбы, д. 73, корп. 2, кв. 92"
+                phone="+7 (904) 880 66 33, +7 (909) 044 00 40, 8 800 201 27 12" status="Дистрибьютор"/>
+        <center id="43773" regionid="/5/72/0/1/" city="г. Тюмень"
+                name="Общество с ограниченной ответственностью &quot;Группа компаний &quot;Кодекс&quot;"
+                email="www.kodeks-sib.ru, info@kodeks-sib.ru" address="625000, ул. Василия Подшибякина,17, оф. 31"
+                phone="+7 (952) 341 73 32" status="Дистрибьютор"/>
+        <center id="48238" regionid="/5/72/0/1/" city="г. Тюмень"
+                name="Общество с ограниченной ответственностью &quot;Сервисный Центр &quot;Кодекс&quot;"
+                address="г. Тюмень, ул. Михаила Сперанского, д. 17, оф. 12" phone="+7 (922) 454 11 35, 8 800 222 25 18"
+                status="Дистрибьютор"/>
+        <center id="59782" regionid="/5/72/0/1/" city="г. Тюмень"
+                name="Индивидуальный предприниматель Фрикель Дмитрий Александрович"
+                email="kodeks-sib.ru, magistr76@bk.ru"
+                address="625032, Тюменская область, г. Тюмень, ул. Заполярная, д. 13, кв. 85" phone="+7 (922) 036 56 33"
+                status="Дистрибьютор"/>
+        <center id="188954" regionid="/5/72/0/1/" city="г. Тюмень"
+                name="Общество с ограниченной ответсвенностью &quot;Техэксперт-Регионы&quot;"
+                email="https://tehregions.ru/, info@tehregions.ru"
+                address="г. Тюмень 625032, ул. Тимирязева,10/4, оф. 206" phone="+7 (953) 398 08 49"
+                status="Дистрибьютор"/>
+        <center id="1364" regionid="/5/72/0/1/" city="г. Тюмень"
+                name="ООО &quot;Центр нормативно-технической документации&quot;"
+                email="http://www.cntd72.ru, 425_cntd@mail.ru"
+                address="625033, г. Тюмень, ул. Николая Семенова, д. 29/2" phone="+7 (3452) 56 80 06"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="18" regname="Удмуртская Респ." center="г. Ижевск" county="Приволжский ФО" centers="2">
+        <center id="1141" regionid="/4/18/0/1/" city="г. Ижевск" name="ООО &quot;Академия-сервис&quot;"
+                email="http://www.iprosoft.ru, sadakov@iprosoft.ru"
+                address="426065, Удмуртская Республика, г. Ижевск, ул. 10 лет Октября, здание 80, офис 410"
+                phone="+7 (3412) 31 08 70" status="Дистрибьютор"/>
+        <center id="1143" regionid="/4/18/0/1/" city="г. Ижевск" name="ООО &quot;Информационное бюро &quot;Кодекс&quot;"
+                email="http://www.iprosoft.ru, izhevsk@prosoft.ru"
+                address="426065, Удмуртская республика, г. Ижевск, ул. 10 лет Октября, д. 60, оф. 409"
+                phone="+7 (3412) 31 08 70" status="Дистрибьютор"/>
+    </region>
+    <region id="" regname="Узбекистан" county="Вне России" centers="0"/>
+    <region id="" regname="Украина" county="Вне России" centers="0"/>
+    <region id="73" regname="Ульяновская обл." center="г. Ульяновск" county="Приволжский ФО" centers="3">
+        <center id="11848" regionid="/4/73/0/1/" city="г. Ульяновск"
+                name="ООО &quot;Деловые информационные системы&quot;"
+                email="http://company-dis.ru/, ul.kodeks@yandex.ru" phone="+7 (846) 372 14 73" status="Дистрибьютор"/>
+        <center id="13967" regionid="/4/73/0/1/" city="г. Ульяновск"
+                name="ООО &quot;Деловые информационные системы&quot;" email="www.company-dis.ru, ul.kodeks@yandex.ru"
+                address="432001, г. Ульяновск, пр-т Нариманова, д.1Г, офис 103-108" phone="+7 (8422) 24 20 20"
+                status="Дистрибьютор"/>
+        <center id="21857" regionid="/4/73/0/1/" city="г. Ульяновск"
+                name="Общество с ограниченной ответственностью &quot;Информационные системы&quot;"
+                email="http://company-dis.ru/, ul.kodeks@yandex.ru"
+                address="432027, г. Ульяновск, ул. Симбирская, д. 7А" phone="+7 (8422) 24 20 20, 8 800 700 25 37"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="" regname="Финляндия" county="Вне России" centers="0"/>
+    <region id="27" regname="Хабаровский край" center="г. Хабаровск" county="Дальневосточный ФО" centers="3">
+        <center id="1619" regionid="/7/27/0/1/" city="г. Хабаровск" name="ГК &quot;Софтинформбюро&quot;"
+                email="http://www.softinfo.ru, kodeks@softinfo.khv.ru"
+                address="680000, г. Хабаровск, ул. Шеронова, д. 56 А, этаж 9"
+                phone="+7 (4212) 46 09 30, 8 800 350 28 05" status="Дистрибьютор"/>
+        <center id="1624" regionid="/7/27/0/5/" city="г. Комсомольск-на-Амуре"
+                name="ГК &quot;Софтинформбюро&quot;, ООО &quot;Центр нормативно-технической документации&quot;"
+                email="http://www.softinfo.ru, cntd@softinfo.ru"
+                address="681017, г. Комсомольск-на-Амуре, ул. Партизанская, д. 12, оф. 308" phone="+7 (4217) 59 32 53"
+                status="Дистрибьютор"/>
+        <center id="198225" regionid="/7/27/0/1/" city="г. Хабаровск"
+                name="Индивидуальный предприниматель Грибков Вячеслав Владимирович" email="grandkoms@gmail.com"
+                address="680000, г. Хабаровск, ул. Гоголя, д. 27, оф. 507"
+                phone="+7 (914) 179 40 42, +7 (914) 179 64 72" status="Дистрибьютор"/>
+    </region>
+    <region id="86" regname="Ханты-Мансийский Автономный округ - Югра" center="г. Ханты-Мансийск" county="Уральский ФО"
+            centers="2">
+        <center id="43748" regionid="/5/86/0/10/" city="г. Сургут"
+                name="Индивидуальный предприниматель Кузьмин Александр Сергеевич"
+                address="625031, Тюменская область, г. Тюмень, ул. Республики, д. 81, оф. 501"
+                phone="+7 (963) 068 80 60" status="Дистрибьютор"/>
+        <center id="201061" regionid="/5/86/0/10/" city="г. Сургут"
+                name="Индивидуальный предприниматель Усольцев Илья Федорович" email="ntd86@bk.ru"
+                address="628414, г. Сургут, Тюменский тракт, 8" phone="+7 (929) 677 47 84" status="Дистрибьютор"/>
+    </region>
+    <region id="74" regname="Челябинская обл." center="г. Челябинск" county="Уральский ФО" centers="10">
+        <center id="1375" regionid="/5/74/0/1/" city="г. Челябинск" name="ООО &quot;Ланвер&quot;"
+                email="http://ланвер.рф/ , cntd_74@lanver.ru"
+                address="454091, Россия, г. Челябинск, пл. Революции, д. 7, этаж 3, оф. 3.20" phone="+7 (351) 700 02 50"
+                status="Дистрибьютор"/>
+        <center id="3107" regionid="/5/74/0/9/" city="г. Магнитогорск" name="ООО &quot;АЗИС&quot;"
+                email="azis74@bk.ru, ira.86@bk.ru" phone="+7 (3519) 46 34 44, +7 (912) 401 11 14"
+                status="Дистрибьютор"/>
+        <center id="1844" regionid="/5/74/0/4/" city="г. Златоуст" name="ООО &quot;Златпроф&quot;"
+                email="http://dzlatprof.cntd.ru, zlatinform@mail.ru"
+                address="456228, Челябинская обл., г. Златоуст, пр. им. Ю. А. Гагарина, 3 микрорайон, д. 39б"
+                phone="+7 (3513) 69 05 71, +7 (909) 086 09 37" status="Дистрибьютор"/>
+        <center id="1380" regionid="/5/74/0/1/" city="г. Челябинск"
+                name="Общество с ограниченной ответственностью НПП &quot;ИН-КИП&quot;"
+                email="http://ланвер.рф/ , inkip@list.ru" address="454006, г. Челябинск, ул. Российская, д. 67, оф. 403"
+                phone="+7 (351) 235 49 51" status="Дистрибьютор"/>
+        <center id="1405" regionid="/5/74/0/9/" city="г. Магнитогорск"
+                name="Общество с ограниченной ответственностью &quot;Ланвер-М&quot;"
+                email="http://ланвер.рф/ , lanver-m@mail.ru" address="455026, г.Магнитогорск, ул.Гагарина, 50, оф.704"
+                phone="+7 (3519) 43 72 54, +7 (3519) 43 72 83" status="Дистрибьютор"/>
+        <center id="1735" regionid="/5/74/0/1/" city="г. Челябинск"
+                name="Индивидуальный предприниматель Нургатина Светлана Евгеньевна"
+                email="http://ланвер.рф/ , gst7469@mail.ru" address="454003, г. Челябинск, Салавата Юлаева, д. 15А"
+                phone="+7 (351) 235 49 78" status="Дистрибьютор"/>
+        <center id="1406" regionid="/5/74/17/2/" city="г. Сатка" name="ООО &quot;Златпроф&quot;"
+                email="andrey@papillon-s.ru" address="г. Сатка, ул. Индустриальная, 8-43" phone="+7 (3519) 04 00 09"
+                status="Дистрибьютор"/>
+        <center id="1384" regionid="/5/74/0/1/" city="г. Челябинск"
+                name="Индивидуальный предприниматель Потысьев Сергей Владимирович"
+                email="http://www.cntd74.ru, http://ланвер.рф/ " address="г. Челябинск, пл. Революции, 7, оф 604"
+                phone="+7 (351) 264 78 25" status="Дистрибьютор"/>
+        <center id="1396" regionid="/5/74/0/10/" city="г. Миасс" name="ООО &quot;Златпроф&quot;" email="operup@mail.ru"
+                address="г. Миасс, ул. Академика Павлова, 36-41" phone="+7 (904) 803 20 33" status="Дистрибьютор"/>
+        <center id="21823" regionid="/5/74/0/1/" city="г. Челябинск" name="ООО &quot;Златпроф&quot;"
+                email="dzlatprof.cntd.ru, 9823237600@mail.ru" address="г. Челябинск, ул. Изумрудная, дом 5"
+                phone="+7 (964) 244 42 19, +7 (982) 323 76 00" status="Дистрибьютор"/>
+    </region>
+    <region id="20" regname="Чеченская Респ." center="г. Грозный" county="Северо-Кавказский ФО" centers="0"/>
+    <region id="21" regname="Чувашская Республика (Чувашия)" center="г. Чебоксары" county="Приволжский ФО" centers="0"/>
+    <region id="87" regname="Чукотский АО" center="г. Анадырь" county="Дальневосточный ФО" centers="0"/>
+    <region id="" regname="Эстонская Республика (Эстония)" county="Вне России" centers="0"/>
+    <region id="89" regname="Ямало-Ненецкий АО" center="г. Салехард" county="Уральский ФО" centers="2">
+        <center id="1430" regionid="/5/89/0/6/" city="г. Новый Уренгой" name="ГК &quot;Система&quot;"
+                email="http://www.texpert-yanao.ru, office@gk-sistema.ru"
+                address="629307, ЯНАО, г. Новый Уренгой, ул. Индустриальная, д. 2, оф. 202" phone="8 800 222 25 18"
+                status="Дистрибьютор"/>
+        <center id="1431" regionid="/5/89/0/7/" city="г. Ноябрьск"
+                name="Общество с ограниченной ответственностью Инновационно-производственное предприятие &quot;Кодекс-А&quot;"
+                email="http://dkodeks-a.cntd.ru, kod_n@mail.ru"
+                address="629802, г. Ноябрьск, Тюменская обл., пр. Мира, 61/603" phone="+7 (900) 400 00 13"
+                status="Дистрибьютор"/>
+    </region>
+    <region id="76" regname="Ярославская обл." center="г. Ярославль" county="Центральный ФО" centers="1">
+        <center id="816" regionid="/1/76/0/1/" city="г. Ярославль"
+                name="ООО &quot;Единый центр информации &quot;Кодекс&quot;" email="http://y-st.ru, yaroslavl@kodeks.ru"
+                address="150054, г. Ярославль, ул. Чкалова, д. 2,  оф. 709"
+                phone="+7 (4852) 28 55 00, +7 (930) 111 17 65, 8 800 250 74 80" status="Дистрибьютор"/>
+    </region>
+</regions>
